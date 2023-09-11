@@ -1,0 +1,26 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "devDependencies": {
+    "eslint": "^8.49.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Artyel71/Node-JS.git"
+  },
+  "author": "artyel@icloud.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artyel71/Node-JS/issues"
+  },
+  "homepage": "https://github.com/Artyel71/Node-JS#readme",
+  "dependencies": {
+    "prettier": "^3.0.3"
+  }
+}
